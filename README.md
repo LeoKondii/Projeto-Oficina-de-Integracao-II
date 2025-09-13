@@ -1,2 +1,16 @@
-# Projeto-Oficina-de-Integra-o-II
-Projeto desenvolvido para a disciplina O.I.2 do curso de graduação da UTFPR, 7º período. Baseado no desenvolvimento de O.I.1.
+# EducaPrisma
+
+Configuração inicial: 
+
+1. Criar arquivo: appsettings.json
+   {
+    "Authentication": {
+      "Google": {
+        "ClientId": "SEU_CLIENT_ID_AQUI",
+        "ClientSecret": "SEU_CLIENT_SECRET_AQUI"
+      }
+    },
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=.;Database=...;"
+    }
+2. Execute: "libman restore" para baixar corretamente as biblioteca.
