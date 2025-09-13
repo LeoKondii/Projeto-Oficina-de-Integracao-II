@@ -1,4 +1,5 @@
-
+Quadro Kanban Trello:
+https://trello.com/invite/b/68c0be63bea36e3279739379/ATTI884446f96e983c9255ea8602bfa4a0d040AF9B36/kanban-projeto-oi2
 
 _**Implantação**_
 
